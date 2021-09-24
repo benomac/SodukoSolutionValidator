@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(isValidSpec, com.novocode.junit.JUnitFingerprint@70350e04, false, [SuiteSelector])[0m
+[0m[[0m[31merror[0m] [0m[0mTest [33misValidSpec[0m.[31mrisValid$u0020returns$u0020true[0m failed: assertion failed, took 0.001 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 1, Failed 1, Errors 0, Passed 0[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	isValidSpec[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
